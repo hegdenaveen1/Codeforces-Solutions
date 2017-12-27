@@ -2,7 +2,7 @@
 
 My Solutions for some of the [Codeforces](http://codeforces.com/problemset) Problems.
 
-This repository contains every problem I have solved alongwith its problem statement.
+This repository contains every problem solved by [my handle](http://codeforces.com/profile/ColdRobot).
 
 
 You are encouraged to look at these Solutions if you are finding it hard to solve the problem.
